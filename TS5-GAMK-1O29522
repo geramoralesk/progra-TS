@@ -1,0 +1,11 @@
+snombre = input("Por favor, ingrese su nombre:")
+sEdad = input("Porfavor, ingrese su edad")
+sCarrera = input("Porfavor, ingrese su carrera")
+sCarne = input("Porfavor, ingrese su carne")
+
+print("Nombre:"+ snombre)
+print("Edad"+ sEdad)
+print("Carrera" + sCarrera)
+print("Carne" + sCarne)
+
+print("Soy"+ snombre+"tengo"+ sEdad+"años y estudio la carrera"+sCarrera+"Mi numero de carne es;"+sCarne)
